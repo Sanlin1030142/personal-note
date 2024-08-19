@@ -8,3 +8,8 @@
 # 2. wether report
 - 嘗試取得官方的api來學習應用
 - 取得天氣預報，並且使用github pages, action來做到自動化更新以及呈現
+
+# 3. flip coin
+- 為了解決二選一難題所建立
+- 基於HTML, CSS, JS的翻硬幣網站
+- 透過github pages將網頁公開
