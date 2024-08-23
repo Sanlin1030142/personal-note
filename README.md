@@ -2,7 +2,8 @@
 作品，筆記整理
 
 ## 1. 大學專題-災難救助遙測機器人
-![alt text](img/116531.jpg)
+<img src="img/116531.jpg" alt="alt text" width="300"/>
+
 - 大三、大四專題製作的成果
 - 獲得專題競賽(軟體與網頁組) 第一名
 - 使用Linux為基底整合各項功能
@@ -13,14 +14,15 @@
 - 運用git知識做到自動整合與更新
 
 ## 3. flip coin
-![alt text](img/117007.jpg)
-- 為了解決二選一難題所建立
+<img src="img/117007.jpg" alt="alt text" style="max-width:100px; height:auto;"/>
+
 - 基於HTML, CSS, JS的翻硬幣網站
 - 實現手機自適應
 - 透過github pages將網頁公開
 
 ## 4. web viewer
-![alt text](img/117008.jpg)
+<img src="img/117008.jpg" alt="alt text" style="max-width:100px; height:auto;"/>
+
 - 模仿市面小說網站所建立
 - 基於flask的網頁設計
 - 熟悉api, 網頁基礎
