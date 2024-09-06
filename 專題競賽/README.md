@@ -36,3 +36,14 @@
 - 上圖左為障礙物的可視化效果，上面是前置攝影機畫面
 
 <img src="../img/navigation.png" alt="alt text" width="300"/>
+
+5. 搖桿控制功能
+    - 優化ROS原始的控制模式，接入遊戲搖桿
+
+<img src="../img/搖桿車子.gif" alt="alt text" width="300"/>
+    
+6. 避障功能
+    - 避免自走車在運行過程中因碰撞而故障
+    - 透過雷達判斷障礙物，並控制車體停止接收移動訊號
+
+<img src="../img/避帳.gif" alt="alt text" width="300"/>
